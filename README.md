@@ -39,7 +39,7 @@ If students do not have the money to pay for the Pace service, then the “Gold 
 ## **Pace's Pricing**
 Pace’s website has a great graphic to show you what their pricing is, and what their available payment options are:
 
-## **Pedestrian Safety**
+## **Pace and the Weather**
 
 **LeaperX**
 
@@ -53,3 +53,4 @@ Pace is not meant to be the answer to rain or snow, however can still be an opti
 
 Pace cannot combat the cold weather and snow any better than a regular bicycle would. Ice, black ice, lightly packed snow, sleet, or any other form of snow can still cause accidents if a student is not careful while riding over it. The cold is now also part of the problem. In which case, the CityBus is a great way for students to travel across campus if they want to escape the cold, stay warm, and do not mind to wait for it. 
 
+**Pedestrian Safety**
