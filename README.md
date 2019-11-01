@@ -39,7 +39,9 @@ If students do not have the money to pay for the Pace service, then the “Gold 
 ## **Pace's Pricing**
 Pace’s website has a great graphic to show you what their pricing is, and what their available payment options are:
 
-## **Pace and the Weather**
+## **Pedestrian Safety**
+
+**LeaperX**
 
 Pace does not offer help when weather can be an issue. According to BestPlaces.com, “West Lafayette, Indiana gets 38 inches of rain, on average, per year,” and  “averages 19 inches of snow per year.” The rain statistic is the nation’s average, and the snow statistic is nine inches below the average. 
 
