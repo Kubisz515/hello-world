@@ -20,9 +20,17 @@ Afterwards, the app will ask you your preferred method to pay. However, this ste
 
 ## **Going the Distances**
 
+**Parking and Transportation Services**
+
+**Purdue Technology Center Aerospace**
+
 **Purdue University Airport**
 
 This specific location is far away from most of the buildings the majority of students have classes in, which makes transportation from here especially difficult for students that need a reliable ride. If students at the Purdue University Airport do not have their own car, bike, skateboard/longboard, Pace does have one station located there. 
+
+**Surplus Store**
+
+**Zucrow Laboratories**
 
 **Other Bus Routes**
 
