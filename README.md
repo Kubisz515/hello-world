@@ -35,15 +35,25 @@ Leaper X will replace both the CityBus Black Loop and the Av Tech stop on the Go
 
 **Parking and Transportation Services**
 
+Purple Zone on Leaper X map. 
+
 **Purdue Technology Center Aerospace**
+
+Yellow Zone on Leaper X map. 
 
 **Purdue University Airport**
 
 This specific location is far away from most of the buildings the majority of students have classes in, which makes transportation from here especially difficult for students that need a reliable ride. If students at the Purdue University Airport do not have their own car, bike, skateboard/longboard, Pace does have one station located there. 
 
+Blue Zone on Leaper X map. 
+
 **Surplus Store**
 
+Purple Zone on Leaper X map. 
+
 **Zucrow Laboratories**
+
+BLue zone on Leaper X map. 
 
 **Other Bus Routes**
 
