@@ -20,6 +20,19 @@ Afterwards, the app will ask you your preferred method to pay. However, this ste
 
 ## **Going the Distances**
 
+**LeaperX**
+
+From 7 a.m. to 6 p.m., riders can travel from "one of approximately 50 central, on-campus locations to a selection of perimeter destinations and back again." This will include the following:
+
+1. Purdue University Airport
+1. Purdue Technology Center Aerospace
+1. Zucrow Laboratories
+1. Parking and Transportation Services
+1. Surplus Store
+1. East Airport Parking Lot
+
+Leaper X will replace both the CityBus Black Loop and the Av Tech stop on the Gold Loop for the remainder of Fall 2019 semester in the coming weeks. Students that rely on the Gold Loop and the Black Loop for their transportation instead of Pace, or just in general, might need to download the new app and use the Leaper X service instead. 
+
 **Parking and Transportation Services**
 
 **Purdue Technology Center Aerospace**
@@ -40,8 +53,6 @@ If students do not have the money to pay for the Pace service, then the “Gold 
 Pace’s website has a great graphic to show you what their pricing is, and what their available payment options are:
 
 ## **Pace and the Weather**
-
-**LeaperX**
 
 Pace does not offer help when weather can be an issue. According to BestPlaces.com, “West Lafayette, Indiana gets 38 inches of rain, on average, per year,” and  “averages 19 inches of snow per year.” The rain statistic is the nation’s average, and the snow statistic is nine inches below the average. 
 
