@@ -59,11 +59,29 @@ BLue zone on Leaper X map.
 
 If students do not have the money to pay for the Pace service, then the “Gold Loop” CityBus reaches all the way to the Purdue University Airport. The CityBus is free to any Purdue student with a Purdue I.D. The CityBus also has several routes in this area; Gold Loop, Silver Loop, Black Loop, Tower Acres, Ross Ade, and Outer Loop. 
 
-## **Building Index**
+## **Purdue College and Building Index**
 
-**Liberal Art Buildings**
+**College of Agriculture**
 
+**College of Education**
 
+**College of Engineering**
+
+**College of Exploratory Studies**
+
+**College of Health & Human Sciences**
+
+**College of Liberal Arts**
+
+**College of Management**
+
+**College of Pharmacy**
+
+**College of Purdue Polytechnic Institute**
+
+**College of Science**
+
+**College of Veterinary Medicine**
 
 
 ## **Pace's Pricing**
